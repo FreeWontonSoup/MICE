@@ -1,0 +1,2 @@
+Sprinkles,sprinkles of candy,5.000000,5.000000,999,light
+Syrup,chocolate syrup,5.400000,10.800000,99,light

@@ -1,0 +1,2 @@
+Strawberry,strawberry flavored ice cream,5.000000,5.000000,998
+Chocolate,Chocolate flavor,5.500000,25.000000,99
